@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vapestore Management API
 
 This is a simple backend REST API for managing vape store products and stock using Node.js, Express, and MongoDB.
@@ -21,3 +22,6 @@ npm run dev
 ```
 
 Ensure MongoDB is running and `.env` is set properly.
+=======
+# Project_WebService
+>>>>>>> 55e29950d1b14df387b90f6ba2e71ded770ed6d7
